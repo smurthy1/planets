@@ -1,1 +1,2 @@
-A sentance about Jupitor.
+A sentance about Jupiter.
+Adding another line about Jupiter.
